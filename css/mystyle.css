@@ -65,4 +65,5 @@ header {
 
 .post a {
     color: var(--primary);
+    text-align: center;
 }
