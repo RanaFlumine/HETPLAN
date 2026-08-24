@@ -17,7 +17,8 @@ a {
 }
 
 body > .content {
-    width: 50%;
+    max-width:880px;
+    width: 90%;
     margin: auto;
 }
 
